@@ -52,11 +52,9 @@ Training and Testing codes for deraining are provided in their respective direct
 ## Results
 Experiments are performed for different image processing tasks including, image deraining, image dehazing and low-light image enhancement.
 
-## Acknowledgement
-Code borrows from [MPRNet](https://github.com/swz30/MPRNet) by [Syed Waqas Zamir](https://scholar.google.es/citations?user=WNGPkVQAAAAJ&hl=en). Thanks for sharing !
 
 ## Citation
-If you use PCNet, please consider citing:
+If you use DANet, please consider citing:
 
     @article{jiangDANet2022,
         title={DANet: Image Deraining via Dynamic Association Learning},
